@@ -2,7 +2,7 @@
 
 ## DISCLAIMER
 As
-- Discord has changes its ToS,
+- Discord has changed its ToS,
 - The JDA(java discord API) has been updated,
 
 this discord bot no longer functions
